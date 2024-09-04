@@ -20,5 +20,7 @@ Create two macros and associated buttons using the account sales data provided:
 - A macro to sort the entire spreadsheet by 2021 unit sales in descending order to see which accounts have the highest overall unit sales in 2021
 
 ## Task 4 : Data Visualization in Excel
+Create a simple dashboard using the account sales dataset.
 
 ## Task 5 : Data Driven Story Telling
+Create a PowerPoint Presentation to communicate key insights.
